@@ -3,19 +3,7 @@ Project:   https://github.com/Jaynes00/Gundam-Zeonic-Front-Recompiled
 Version:   1.0.1-rc6
 Game:      zf_view 1.0.1-rc6 (RC6) - Gundam Zeonic Front Recompiled (native PC port) - production build (developer tools not compiled in)
 Contents:  RC6 (2026-10-25): the 16:9 HUD flicker over the targeting overlays, unit models flickering (EE math),
-           Auto Lock-on as retail, the in-game OPTIONS audit (Sight), on top of 1.0 .. RC2
+           Auto Lock-on as retail, the in-game OPTIONS audit (Sight), the support calls' radio replies,
+           the machine-trouble screen blink, on top of 1.0 .. RC2
 Disc:      Mobile Suit Gundam: Zeonic Front, USA, SLUS-20233 (your own disc image; none included)
-Packaged:  2026-10-25 18:30
-Status:    release candidate. Not compared side by side with the PS2; see KNOWN_ISSUES.txt.
-
-SHA-256 of the files:
-  4531e9a94263ba393abe0cd0cf7ee4a3d017140e76c87dfa4fb78b523a439382  BUG_REPORT_TEMPLATE.txt
-  6d4d7504435f2b4c8de8052212f7ba9b46551d0b4e9dd2df71c255a26230d234  KNOWN_ISSUES.txt
-  0f885b509a685d2bbfa652fed26b5fb31d88fbdab0a978c641d1c7b8aa460aa9  msvcp140.dll
-  640b2aefced484d0368eea5bdd06addd0658a3a70a49256e560d6923b404a479  msvcp140_atomic_wait.dll
-  d8d8572894ebc3d9abf02f3d04fb8e03d43f53b8b974c853704240df14d3d31d  README.txt
-  d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066  vcruntime140.dll
-  1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f  vcruntime140_1.dll
-  d69281a2a06d8a63adb684d30cec3e1958e734c42a09ed6fc399222a9f4d7ff5  ZeonicFrontLauncher.exe
-  d60392f557f4adf0c2551704350882870c24ee6eaed5d5b875bd2871ee7d69b8  zf_view.exe
-  0fc2a7452604d3505e7cc1ee874df61401e1476fd10756803e8517be839335d0  zf_view.pdb
+Packaged:  2026-10-25 19:56
