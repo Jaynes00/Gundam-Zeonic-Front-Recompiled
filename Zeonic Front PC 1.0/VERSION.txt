@@ -1,0 +1,20 @@
+ZEONIC FRONT PC - VERSION 1.0
+Version:   1.0.0
+Game:      zf_view 1.0.0 - Gundam Zeonic Front native PC port - production build (developer tools not compiled in)
+Contents:  1.0 (2026-10-24): the mission screen transitions as retail (abort, retry, mission start, results, epilogue),
+           the 16:9 results fade over the whole screen, launcher cleanup, on top of RC5.1 .. RC2
+Disc:      Mobile Suit Gundam: Zeonic Front, USA, SLUS-20233 (your own disc image; none included)
+Packaged:  2026-10-24 21:45
+Status:    release. Not compared side by side with the PS2; see KNOWN_ISSUES.txt.
+
+SHA-256 of the files:
+  7d3e588541d1f31ec56cb50478622d63cba685e3438e40aba867b76fa62753c4  BUG_REPORT_TEMPLATE.txt
+  ad3ff1f55f12d1b72e0512f5d807774fb59751986f3b16955db0e3c2219d8b03  KNOWN_ISSUES.txt
+  0f885b509a685d2bbfa652fed26b5fb31d88fbdab0a978c641d1c7b8aa460aa9  msvcp140.dll
+  640b2aefced484d0368eea5bdd06addd0658a3a70a49256e560d6923b404a479  msvcp140_atomic_wait.dll
+  ff466b4a624fc8e9b96816c4b9c0f5885c8ccfdc305cb30050a79beb5dd2f5da  README.txt
+  d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066  vcruntime140.dll
+  1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f  vcruntime140_1.dll
+  a8e76e73e12bad66b8e8e20a8f2e41189b40adb49488ccf321d14bf78eb90e6a  ZeonicFrontLauncher.exe
+  399dd80336242fef868055a0c76fbb052b89c77bcd2fb21a262f3dd3d8cc4299  zf_view.exe
+  4d4919727d075e83edc836c5a4edb0c08ee006bc9ba06a9e1d42c2e2310bb529  zf_view.pdb

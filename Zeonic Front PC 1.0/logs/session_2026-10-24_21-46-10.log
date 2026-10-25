@@ -1,0 +1,117 @@
+settings loaded: draw distance Original 1x, fog original, 60 FPS, interpolation on (C:\Users\gamer\Desktop\Zeonic Front PC 1.0\zf_view_settings.ini)
+native saves: C:\Users\gamer\Desktop\Zeonic Front PC 1.0\saves
+audio: on (5516 sound files, volume 25 %)
+game: boot: UI and sound initialised
+session 21:46:10: logos
+game: native saves: no system file in C:\Users\gamer\Desktop\Zeonic Front PC 1.0\saves (empty card)
+game: boot: image screen dat/tex/tit_1a00.tib (FUN_00126668(1))
+movie: MV1.PSS playing (volume 0x2FFF, START skips)
+game: movie: MV1.PSS requested (volume 0x2FFF, START skips)
+movie: MV1.PSS skipped with START (16 pictures)
+game: movie: MV1.PSS skipped with START
+session 21:46:12: title
+game: title: screen built (2 menu items, 0 saves)
+game: title: NEW GAME chosen
+game: title: NEW GAME
+session 21:46:16: campaign menus, round 1 mission 1
+game: campaign: new game
+game: briefing: assets built (PAK_TUK_ZF, 4 sprite sets, menu, texts) for mission 1 (FUN_001cc688)
+game: campaign: training offer for mission 1 (FUN_00123538)
+game: briefing: assets released (FUN_001ccda8)
+game: campaign: training offer answered 2 (FUN_001235a0)
+game: campaign: training declined: the program index + 2, the briefing
+game: briefing: assets built (PAK_TUK_ZF, 4 sprite sets, menu, texts) for mission 1 (FUN_001cc688)
+game: campaign screen: common objects built (background usr/tuk/brif0/tex/bg07.tib) (FUN_001cc270)
+game: briefing: situation scene (FUN_001bd778, stuat) started
+game: briefing: situation scene (FUN_001bd778) done
+game: briefing: title card done (FUN_001bc400)
+game: briefing: assets released (FUN_001ccda8)
+game: team setup NEW markers (mission 1, next 2): none
+game: deployment: slots 0/1/255, suits 3/0/3, available 2/2/0 (FUN_001c80d8)
+game: deployment screen: target text dat/doc/u100/target_01.txt: 3 lines (w x h 432x44/704x22/144x66)
+game: deployment screen: target text: <81>E<82>r<82><85><82><89><82><9A><82><85><81>@<82><83><82><8F><82><8E><82><94><82><92><82><8F><82><8C><81>@<82><8F><82><86><81>@ | <81>@<82><82><82><81><82><93><82><85><81>@<82><88><82><85><82><81><82><84><82><91><82><95><82><81><82><92><82><94><82><85><82><92><82><93><81>D |  | <81>E<82>`<82><8C><82><8C><81>@<82><94><82><85><82><81><82><8D><81>@<82><8C><82><85><82><81><82><84><82><85><82><92><82><93><81>@<82><81><82><92><82><85><81>@<82><84><82><85><82><93><82><94><82><92><82><8F><82><99><82><85><82><84><81>D |  | <81>@<81>E<82>e<82><81><82><89><82><92> | <81>@<81>E<82>v<82><89><82><8E><82><84> | <81>@<81>E<82>c<82><81><82><97><82><8E> |  |  | G
+game: deployment screen: assets built (PAK_TUK_BRF, 18 sprite sets, map window, texts) (FUN_001c84f0 / FUN_001c89c8 / FUN_001c87d0)
+game: deployment menu: SORTIE confirmed
+game: deployment accepted: stage 1 for mission 1
+session 21:46:34: round 1 mission 1 (stage 1), in mission
+game: stage epilogue dat/tmd/u100/s01de1: 1 of 1 models set up
+game: boot: stage textures: 3 banks uploaded (FUN_0016e008)
+game: boot: map: 0x0062CF00 20x32 tiles, 61 tile types, background 0x00BEBE40 (FUN_0016eab8)
+game: boot: stage tables: 26 groups, 78 units at 0x012E07F0, types 15 equipment 9 shields 16 melee 5, 12 GS uploads so far (FUN_00184480)
+game: boot: AI: squads 0x013E3E90, routes 0x014054C0, grid 200x320 (FUN_0014a6d8)
+game: boot: HUD: usr/tuk/pak/PAK_TUK_IGM.PAK 0x01406EF0, sets A/B 104/1000 sprites, radio window 0x014FFE90, message databases 0x0151F730 / 0x016A2F20 (FUN_001cd560)
+game: boot: camera: focused unit 0 at (0.000000, 0.000000), terrain height -20.000000 (FUN_00169640 / FUN_0016f3f0)
+game: mission started: stage 1, 78 units
+game: mission bound to the viewer (mission mode 0 phase 0)
+graphics options: opened
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Original 1x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Original 1x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Original 1x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Original 1x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Original 1x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Original 1x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+display: borderless full screen 2560 x 1440
+graphics options: draw distance Original 1x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Extended 2x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Enhanced 4x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Experimental 8x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Enhanced 4x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Experimental 8x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Experimental 8x, fog extended, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Experimental 8x, fog original, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Experimental 8x, fog extended, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x58 (FUN_001109a8; game sound effects are reported, not played)
+graphics options: closed
+perf 21:47:11: 60 fps (target 60, 180 Hz display, vsync) | 30 ticks/s | CPU 7.9 ms GPU 6.04 ms | D3D11
+graphics options: opened
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Enhanced 4x, fog extended, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Extended 2x, fog extended, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Enhanced 4x, fog extended, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Experimental 8x, fog extended, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Enhanced 4x, fog extended, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: draw distance Extended 2x, fog extended, 60 FPS, interpolation on (saved)
+graphics options: sound 0x5B (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x5D (FUN_001109a8; game sound effects are reported, not played)
+graphics options: sound 0x58 (FUN_001109a8; game sound effects are reported, not played)
+graphics options: closed

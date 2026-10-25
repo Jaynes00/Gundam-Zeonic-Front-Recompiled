@@ -1,0 +1,33 @@
+ZEONIC FRONT PC - 1.0 BUG REPORT
+================================
+
+Easiest: click "Report a bug" in the launcher. It fills in the technical
+details for you. Otherwise copy this file, answer the questions and send it.
+
+Build version (see VERSION.txt):        1.0.0
+Windows version:
+Graphics card:
+Controller or keyboard (which controller?):
+
+1. What happened?
+
+
+2. Where were you?
+   - Campaign: round 1 / round 2, mission number:
+   - or Simulator program number:
+   - or menu / screen name:
+
+3. What were you doing just before (button presses, orders, ...)?
+
+
+4. What did you expect instead? (If you know the PS2 original, how did it behave?)
+
+
+5. How often? (always / sometimes / once)
+
+
+6. Did the game crash or freeze?
+   If it crashed, please attach zf_view_crash.log from the game folder and the
+   newest file from the logs folder.
+
+7. Screenshot or video (optional, very helpful):
