@@ -6,16 +6,3 @@ Contents:  1.0 (2026-10-24): the mission screen transitions as retail (abort, re
            the 16:9 results fade over the whole screen, launcher cleanup, on top of RC5.1 .. RC2
 Disc:      Mobile Suit Gundam: Zeonic Front, USA, SLUS-20233 (your own disc image; none included)
 Packaged:  2026-10-24 21:58
-Status:    release. Not compared side by side with the PS2; see KNOWN_ISSUES.txt.
-
-SHA-256 of the files:
-  7db78ccd1e7c669496fb789970261aa1624ec0bffdb90c0ce7b54d4f49b5bd7f  BUG_REPORT_TEMPLATE.txt
-  d40b830d7e79ce54936acb5f3d767baa5050b636c4af2d1e7dab1481877732ae  KNOWN_ISSUES.txt
-  0f885b509a685d2bbfa652fed26b5fb31d88fbdab0a978c641d1c7b8aa460aa9  msvcp140.dll
-  640b2aefced484d0368eea5bdd06addd0658a3a70a49256e560d6923b404a479  msvcp140_atomic_wait.dll
-  f5baaa6ecc3873742a6dd8cee52d2b425d99bf2521155b1e3e3f9e434ae91f43  README.txt
-  d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066  vcruntime140.dll
-  1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f  vcruntime140_1.dll
-  2e429034567d8e8027b96bdf418a911ac12886f0442d7b18442d3accef9c1a17  ZeonicFrontLauncher.exe
-  c4e3a781b8a84ab900fe7d773191d8364055277675dd9b645c6f3881058ea908  zf_view.exe
-  3f8a9043535054b24457c645432e24316d03c620cf08d35c92aa6a532063e44b  zf_view.pdb
