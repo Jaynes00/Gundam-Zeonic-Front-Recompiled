@@ -1,5 +1,5 @@
 GUNDAM ZEONIC FRONT RECOMPILED
-Version 1.0 (1.0.0)
+Version RC6 (1.0.1-rc6), release candidate for 1.0.1
 =====================================================================
 
 Gundam Zeonic Front Recompiled is a fan-made native Windows port of the PlayStation 2 game "Mobile Suit

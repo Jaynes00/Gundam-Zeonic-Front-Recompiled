@@ -1,8 +1,8 @@
-GUNDAM ZEONIC FRONT RECOMPILED - VERSION 1.0
+GUNDAM ZEONIC FRONT RECOMPILED - RC6 (1.0.1 RELEASE CANDIDATE)
 Project:   https://github.com/Jaynes00/Gundam-Zeonic-Front-Recompiled
-Version:   1.0.0
-Game:      zf_view 1.0.0 - Gundam Zeonic Front Recompiled (native PC port) - production build (developer tools not compiled in)
-Contents:  1.0 (2026-10-24): the mission screen transitions as retail (abort, retry, mission start, results, epilogue),
-           the 16:9 results fade over the whole screen, launcher cleanup, on top of RC5.1 .. RC2
+Version:   1.0.1-rc6
+Game:      zf_view 1.0.1-rc6 (RC6) - Gundam Zeonic Front Recompiled (native PC port) - production build (developer tools not compiled in)
+Contents:  RC6 (2026-10-25): the 16:9 HUD flicker over the targeting overlays, unit models flickering (EE math),
+           Auto Lock-on as retail, the in-game OPTIONS audit (Sight), on top of 1.0 .. RC2
 Disc:      Mobile Suit Gundam: Zeonic Front, USA, SLUS-20233 (your own disc image; none included)
-Packaged:  2026-10-24 21:58
+Packaged:  2026-10-25 18:30
