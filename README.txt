@@ -1,5 +1,5 @@
 GUNDAM ZEONIC FRONT RECOMPILED
-Version RC6 (1.0.1-rc6), release candidate for 1.0.1
+Version RC6 Build 3 (1.0.1-rc6.3), release candidate for 1.0.1
 =====================================================================
 
 Gundam Zeonic Front Recompiled is a fan-made native Windows port of the PlayStation 2 game "Mobile Suit
@@ -86,6 +86,26 @@ SAVES AND SETTINGS
   %LOCALAPPDATA%\ZeonicFrontPC\launcher.ini.
 
 
+UPDATES
+-------
+- When it starts, the launcher checks the project's GitHub page for a newer
+  build and shows the result below the volume slider ("New Update Available"
+  or "You're running the latest version"). Without internet it simply says it
+  could not check; you can always play the installed version.
+- Download & Install downloads the new build, checks it against the checksum
+  published with it, asks you to close the game if it is running, and then
+  installs it and restarts the launcher. Your saves, display settings, logs
+  and any files of your own in this folder are kept. The replaced files are
+  kept in "update_backup"; if anything goes wrong during the install, the
+  previous version is put back automatically.
+- Release notes opens the release's page on GitHub. Update options: check at
+  start (on), download automatically (off; it is still installed only when
+  you choose), notifications (on), and the channel: Preview (release
+  candidates, the default for this build) or Stable (final releases only).
+- Updating from RC6 Build 2 or older: those launchers have no updater. Copy
+  your "saves" folder and zf_view_settings.ini into this folder once.
+
+
 REPORTING BUGS
 --------------
 - Please report bugs as an issue on the project's GitHub page:
@@ -106,6 +126,7 @@ REPORTING BUGS
 FILES IN THIS FOLDER
 --------------------
   ZeonicFrontLauncher.exe   the launcher (start this)
+  ZeonicFrontUpdater.exe    installs an update (started by the launcher)
   zf_view.exe               the game (started by the launcher)
   zf_view.pdb               debugging symbols (makes crash reports useful)
   msvcp140*.dll, vcruntime140*.dll
