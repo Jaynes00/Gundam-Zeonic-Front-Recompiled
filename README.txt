@@ -1,5 +1,5 @@
 GUNDAM ZEONIC FRONT RECOMPILED
-Version RC6 Build 3 (1.0.1-rc6.3), release candidate for 1.0.1
+Version RC6 Build 4 (1.0.1-rc6.4), release candidate for 1.0.1
 =====================================================================
 
 Gundam Zeonic Front Recompiled is a fan-made native Windows port of the PlayStation 2 game "Mobile Suit
@@ -46,7 +46,9 @@ If Windows SmartScreen warns about an unknown publisher, choose
 
 CONTROLS
 --------
-Any XInput gamepad works like the PS2 controller.
+Any XInput gamepad works like the PS2 controller. The keyboard works at the
+same time (only the first connected gamepad is used). PlayStation and other
+non-XInput controllers need Steam Input or a similar tool.
 
 Keyboard (= PS2 controller):
   W A S D ............ left stick (move)
@@ -70,8 +72,8 @@ PC-only keys:
   F10 ................ graphics options (aspect ratio 4:3 / 16:9, resolution,
                        window / fullscreen, window size, draw distance...)
   Alt+Enter .......... fullscreen / window
-  Esc ................ QUIT THE GAME AT ONCE (no question asked; progress
-                       since your last save is lost)
+  Esc ................ quit the game: asks first (KEEP PLAYING / QUIT TO
+                       DESKTOP; progress since your last save is lost)
 
 
 SAVES AND SETTINGS
