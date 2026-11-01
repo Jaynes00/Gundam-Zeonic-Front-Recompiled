@@ -1,11 +1,13 @@
-GUNDAM ZEONIC FRONT RECOMPILED - RC6 Build 4 (1.0.1 RELEASE CANDIDATE)
+GUNDAM ZEONIC FRONT RECOMPILED - RC6 Build 5 (1.0.1 RELEASE CANDIDATE)
 Project:   https://github.com/Jaynes00/Gundam-Zeonic-Front-Recompiled
-Version:   1.0.1-rc6.4
-Game:      zf_view 1.0.1-rc6.4 (RC6 Build 4) - Gundam Zeonic Front Recompiled (native PC port) - production build (developer tools not compiled in)
+Version:   1.0.1-rc6.5
+Game:      zf_view 1.0.1-rc6.5 (RC6 Build 5) - Gundam Zeonic Front Recompiled (native PC port) - production build (developer tools not compiled in)
 Contents:  RC6 (2026-10-25): the 16:9 HUD flicker over the targeting overlays, unit models flickering (EE math),
            Auto Lock-on as retail, the in-game OPTIONS audit (Sight), the support calls' radio replies,
            the machine-trouble screen blink; Build 3: the launcher updates itself from GitHub releases;
            Build 4: Esc asks before quitting, keyboard and gamepad work together;
+           Build 5: the campaign randomizer, quality of life page and mission edits (all optional, randomizer off by default);
            on top of 1.0 .. RC2
 Disc:      Mobile Suit Gundam: Zeonic Front, USA, SLUS-20233 (your own disc image; none included)
-Packaged:  2026-10-28 23:09
+Packaged:  2026-11-01 17:12
+Status:    release candidate. Not compared side by side with the PS2; see KNOWN_ISSUES.txt.
